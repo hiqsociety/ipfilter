@@ -8,7 +8,7 @@ import (
 	"sync"
 
 	"github.com/phuslu/iploc"
-	"github.com/tomasen/realip"
+	"github.com/hiqsociety/realip"
 )
 
 //Options for IPFilter. Allow supercedes Block for IP checks
